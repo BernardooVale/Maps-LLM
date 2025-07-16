@@ -9,7 +9,7 @@ This application allows users to request routes between two locations using **na
 
 ---
 
-## 🌐 Project Overview (English)
+## 🌐 Project Overview
 
 ### 🧠 What it does
 
@@ -29,7 +29,7 @@ This application allows users to request routes between two locations using **na
 
 ---
 
-## 📁 Visão Geral do Projeto (Português)
+## 📁 Visão Geral do Projeto
 
 ### 🧠 O que o projeto faz
 
